@@ -39,4 +39,4 @@ Este proyecto fue desarrollado con **fines exclusivamente educativos y de aprend
 
 ## ✉️ Contacto
 Zm0kSec
-www.linkedin.com/in/benedicto-palma-verrdugo-094931301
+www.linkedin.com/in/benedicto-palma-verdugo-094931301

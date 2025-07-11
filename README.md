@@ -23,7 +23,7 @@ Este repositorio contiene una herramienta de Command & Control (C2) desarrollada
 ## 🛠️ Cómo Funciona (Uso Básico)
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/Zm0kSec/Command-And-Control.git](https://github.com/Zm0kSec/Command-And-Control.git)
+    git clone https://github.com/Zm0kSec/Command-And-Control.git
     cd Command-And-Control
     ```
 2.  **Configurar el Servidor C2:**
